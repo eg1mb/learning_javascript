@@ -1,0 +1,12 @@
+# artifacts:
+build
+coverage
+
+# all HTML files:
+**/*.html
+
+# version control and dependencies:
+**/.git
+**/.svn
+**/.hg
+**/node_modules

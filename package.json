@@ -1,0 +1,9 @@
+{
+  "name": "learning_javascript",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": [
+    "chapter_01",
+    "chapter_02"
+  ]
+}
